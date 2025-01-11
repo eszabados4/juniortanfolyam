@@ -1,3 +1,3 @@
 # juniortanfolyam
 # szerkesztettem a readme-t
-#szerkesztés saját gépről
+#szerkesztés saját gépről és mégegyszer
